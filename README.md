@@ -1,7 +1,7 @@
 # Sticky Note and Bulletin Board Application
 
 ## Description
-This project is a Django application that allows users to create, view, edit, and delete sticky notes and bulletin board posts. It was developed as a final project during my bootcamp to demonstrate understanding of Django and web development concepts.
+This project is a Django application that allows users to create, view, edit, and delete sticky notes and bulletin board posts. It was developed as a final project during my bootcamp to demonstrate understanding of Django/Python and web development concepts.
 
 ## Table of Contents
 1. [Overview](#overview)
